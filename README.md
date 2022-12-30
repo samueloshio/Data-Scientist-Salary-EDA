@@ -1,6 +1,6 @@
 # Data Scientist Salary EDA
 
-This project is a part of the Data Analyst Working Group
+This project is a part of the Data Analysis Working Group
 
 #### -- Project Status: [Active]
 
