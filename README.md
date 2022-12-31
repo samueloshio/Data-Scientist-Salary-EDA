@@ -14,7 +14,7 @@ The purpose of this project is achieve the following:
 
 ### Partner
 * Partner contact
-   Name: Henry Akintayo
+   Name: Henry Akintuyi
 
 
 ### Technologies
